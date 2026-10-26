@@ -1,0 +1,6 @@
+{
+  "name": "ZHINUK E-Commerce Hub",
+  "description": "বাংলাদেশি বিশ্বস্ত ই-কমার্স প্ল্যাটফর্ম — প্রিমিয়াম গ্যাজেট, লাইফস্টাইল ও ফ্যাশন পণ্য ক্যাশ অন ডেলিভারিতে দ্রুত সারা দেশে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

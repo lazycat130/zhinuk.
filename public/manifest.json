@@ -1,0 +1,37 @@
+{
+  "id": "/",
+  "name": "ZHINUK E-Commerce Hub — ঝিনুক",
+  "short_name": "ZHINUK",
+  "description": "প্রিমিয়াম বাংলাদেশি অনলাইন শপ — গ্যাজেট, লাইফস্টাইল ও ফ্যাশন পণ্য ক্যাশ অন ডেলিভারিতে দ্রুত সারা দেশে।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#075B9A",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/zhinuk_logo_3bff0b46.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
